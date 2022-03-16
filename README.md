@@ -6,7 +6,7 @@ Easy Trip - "Путешествуйте с нами легко!"
 
 1. Для оформления покупки билета необходимо авторизоваться.
 
-![](https://github.com/vladimirtugutov/EasyTrip/blob/master/readme-assets/auth.gif)
+![](https://github.com/vladimirtugutov/EasyTrip/blob/main/readme-assets/auth.gif)
 
 2. Поиск билетов можно осуществлять без выбранной даты, в одну сторону. Вся информация по перелету содержится в билете.
 Время прилета местное, разница в часовых поясах учтена.
