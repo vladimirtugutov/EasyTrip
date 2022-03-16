@@ -36,11 +36,19 @@ EasyTrip - "Путешествуйте с нами легко!"
 Приложение разработано с применением следующих технологий:
 
 JavaScript;
+
 Node.js;
+
 Express;
+
 PostgreSQL;
+
 Sequelize;
+
 Axios;
+
 React;
+
 Redux;
+
 Redux-Saga.
