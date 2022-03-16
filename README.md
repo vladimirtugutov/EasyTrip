@@ -11,23 +11,23 @@ Easy Trip - "Путешествуйте с нами легко!"
 2. Поиск билетов можно осуществлять без выбранной даты, в одну сторону. Вся информация по перелету содержится в билете.
 Время прилета местное, разница в часовых поясах учтена.
 
-![](https://github.com/vladimirtugutov/EasyTrip/blob/master/readme-assets/main.gif)
+![](https://github.com/vladimirtugutov/EasyTrip/blob/main/readme-assets/main.gif)
 
 3. Cлайдер с популярными направлениями поможет выбрать интересный маршрут путешествия. Просто нажмите на картинку и получите билет на следующий день из вашего города вылета.
 
-![](https://github.com/vladimirtugutov/EasyTrip/blob/master/readme-assets/slider.gif)
+![](https://github.com/vladimirtugutov/EasyTrip/blob/main/readme-assets/slider.gif)
 
 4. В приложении предусмотрен поиск низких цен по карте. Город вылета отображается красным флагом. Изначально подгружаются билеты из вышего города. Также можно выбрать любой город вылета. По кнопке "Подробнее" можно приобрести билет.
 
-![](https://github.com/vladimirtugutov/EasyTrip/blob/master/readme-assets/map.gif)
+![](https://github.com/vladimirtugutov/EasyTrip/blob/main/readme-assets/map.gif)
 
 5. Чтобы путешествие стало незабываемым, можно забронировать экскурсию из любого города.
 
-![](https://github.com/vladimirtugutov/EasyTrip/blob/master/readme-assets/excursions.gif)
+![](https://github.com/vladimirtugutov/EasyTrip/blob/main/readme-assets/excursions.gif)
 
 6. Все купленные и забронированные билеты отображаются в личном кабинете. При необходимости их можно удалить.
 
-![](https://github.com/vladimirtugutov/EasyTrip/blob/master/readme-assets/profile.gif)
+![](https://github.com/vladimirtugutov/EasyTrip/blob/main/readme-assets/profile.gif)
 
 7. В приложении предусмотрена возможность смены пароля учетной записи пользователяВсе купленные билеты с подробной информацией приходят на почту, а также отправляются телеграм-ботом на ваш телефон.
 
